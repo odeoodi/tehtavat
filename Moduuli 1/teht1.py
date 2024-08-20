@@ -1,2 +1,2 @@
 #tehtävä 1
-print("Hei, Ode!")
+print("Hei, Ode Ojala!")
