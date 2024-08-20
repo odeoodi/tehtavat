@@ -8,6 +8,8 @@ leiviskagramma = leiviska*20*32*13.3
 
 massagramma = luotigramma + naulagramma + leiviskagramma
 
+kilot = massagramma//1000
 
+grammat = massagramma - kilot
 
-print(f"Massa nykymittojen mukaan {kilot} kilogrammaa ja {grammat} grammaa.")
+print(f"Massa nykymittojen mukaan:\n {kilot} kilogrammaa ja {grammat} grammaa.")
