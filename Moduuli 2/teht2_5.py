@@ -10,6 +10,6 @@ massagramma = luotigramma + naulagramma + leiviskagramma
 
 kilot = massagramma//1000
 
-grammat = massagramma - kilot
+grammat = (massagramma/1000) - kilot
 
-print(f"Massa nykymittojen mukaan:\n {kilot} kilogrammaa ja {grammat} grammaa.")
+print(f"Massa nykymittojen mukaan:\n {kilot} kilogrammaa ja {grammat:2.3f} grammaa.")
