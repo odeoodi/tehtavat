@@ -5,6 +5,6 @@ if (sukupuoli == "nainen" and 117 <= hemo <= 175) or (sukupuoli == "mies" and 13
     print("Hemoglobiinisi on normaali.")
 elif (sukupuoli == "nainen" and hemo < 117) or (sukupuoli == "mies" and hemo < 134):
     print("Hemoglobiinisi on alhainen.")
-elif (sukupuoli == "nainen" and hemo > 175) or (sukupuoli == mies and hemo > 195):
+elif (sukupuoli == "nainen" and hemo > 175) or (sukupuoli == "mies" and hemo > 195):
     print("Hemogloniinisi on korkea.")
 
