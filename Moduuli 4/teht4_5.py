@@ -7,9 +7,10 @@ if tunnus == "python" and salasana == "rules":
     print("Tervetuloa!")
 
 while tunnus != "python" or salasana != "rules":
-    yritykset = yritykset +1
+    yritykset += 1
+    print(f"Yritä uudelleen, sinulla on vielä {5 - yritykset} yritystä.")
     tunnus = input("Anna käyttäjätunnus uudelleen: ")
     salasana = input("Anna salasana uudelleen: ")
-    if yritykset >= 5:
+    if yritykset > 5:
         print("Pääsy evätty.")
         break
