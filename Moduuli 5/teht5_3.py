@@ -13,7 +13,7 @@ jaollinen = 0
 for n in range(1,(luku+1)):
     jaollisuus = luku % n
     if jaollisuus == 0:
-        jaollinen = jaollinen + 1
+        jaollinen += 1
 
 if jaollinen == 2:
     print("Luku on alkuluku")
