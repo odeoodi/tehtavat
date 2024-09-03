@@ -6,8 +6,8 @@ luvut = []
 
 luku = input("Anna luku tai paina Enter lopettaaksesi: ")
 while luku != "":
-    luvut.append(luku)
+    luvut.append(int(luku))
     luku = input("Anna luku tai paina Enter lopettaaksesi: ")
 
 luvut.sort(reverse=True)
-print(luvut)
+print(luvut[:5])
