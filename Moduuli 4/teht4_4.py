@@ -4,7 +4,6 @@ luku = random.randint(1,10)
 
 arvaus = int(input("Arvaa luku: "))
 
-print(luku)
 
 while arvaus != luku:
     if arvaus > luku:
