@@ -6,7 +6,7 @@ import math
 
 
 def epernelio(halkaisija, hinta):
-    neliohinta = hinta/(((halkaisija/2)**2)*math.pi)
+    neliohinta = hinta/((((halkaisija)/100/2)**2)*math.pi)
     return neliohinta
 
 senttim = float(input("Kerro 1. pizzan halkaisija (cm): "))
