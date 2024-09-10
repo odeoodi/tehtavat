@@ -23,6 +23,6 @@ db_connection = mysql.connector.connect(
 
 icao = input("Anna ICAO-koodi: ")
 airport = get_airport_by_icao(icao)
-print(airport)
+print(f'{airport[0][0]}, {airport[0][1]}')
 
 
