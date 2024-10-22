@@ -47,7 +47,7 @@ for i in range(1,11):
     print(autot[n].huippunopeus,autot[n].rekkari)"""
 
 print("Kisa alkaa!")
-while autot[0].kuljettu_matka < 10000 or autot[1].kuljettu_matka < 10000 or autot[2].kuljettu_matka < 10000 or autot[3].kuljettu_matka < 10000 or autot[4].kuljettu_matka < 10000 or autot[5].kuljettu_matka < 10000 or autot[6].kuljettu_matka < 10000 or autot[7].kuljettu_matka < 10000 or autot[8].kuljettu_matka < 10000 or autot[9].kuljettu_matka < 10000:
+while True:
     for auto in range(0,10):
         autot[auto].kiihdyta(random.randint(-10,15))
     """print("Autojen nopeudet:")
@@ -58,6 +58,14 @@ while autot[0].kuljettu_matka < 10000 or autot[1].kuljettu_matka < 10000 or auto
     """print("Autojen kuljetut matkat nyt:")
     for auto in range(0,10):
         print(f"Auto: {autot[auto].rekkari}, nopeus: {autot[auto].kuljettu_matka} km.")"""
+    for n in range(0,10):
+        if autot[n].kuljettu_matka>=10000:
+            voitto = True
+        else:
+            voitto = False
+    if voitto:
+        break
+
 print("")
 print("Voittaja on löytynyt!")
 print("")
