@@ -11,8 +11,7 @@ luku = int(input("Anna kokonaisluku: "))
 jaollinen = 0
 
 for n in range(1,(luku+1)):
-    jaollisuus = luku % n
-    if jaollisuus == 0:
+    if luku % n == 0:
         jaollinen += 1
 
 if jaollinen == 2:

@@ -1,10 +1,10 @@
-sukupuoli = input("Kerro biologinen sukupuoli: ")
+sukupuoli = input("Kerro biologinen sukupuoli(M/N): ")
 hemo = float(input("Hemoglobiinisi: "))
 
-if (sukupuoli == "nainen" and 117 <= hemo <= 175) or (sukupuoli == "mies" and 134 <= hemo <= 195):
+if (sukupuoli == "N" and 117 <= hemo <= 175) or (sukupuoli == "M" and 134 <= hemo <= 195):
     print("Hemoglobiinisi on normaali.")
-elif (sukupuoli == "nainen" and hemo < 117) or (sukupuoli == "mies" and hemo < 134):
+elif (sukupuoli == "N" and hemo < 117) or (sukupuoli == "M" and hemo < 134):
     print("Hemoglobiinisi on alhainen.")
-elif (sukupuoli == "nainen" and hemo > 175) or (sukupuoli == "mies" and hemo > 195):
+elif (sukupuoli == "N" and hemo > 175) or (sukupuoli == "M" and hemo > 195):
     print("Hemogloniinisi on korkea.")
 

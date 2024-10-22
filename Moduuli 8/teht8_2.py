@@ -21,6 +21,7 @@ db_connection = mysql.connector.connect(
          password='K4l4kukk0=!',
          autocommit=True
          )
+
 maakoodi = input("Anna maakoodi: ")
 airport_types = get_airport_types_by_iso_country(maakoodi)
 for airport in airport_types:
