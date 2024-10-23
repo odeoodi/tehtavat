@@ -56,8 +56,3 @@ talo1.aja_hissia(2,5)
 talo1.aja_hissia(3,9)
 talo1.aja_hissia(3,5)
 talo1.aja_hissia(2,3)
-'''
-hissi_a = Hissi(0,50)
-hissi_a.siirry_kerrokseen(hissi_a,25)
-hissi_a.siirry_kerrokseen(hissi_a,15)
-'''
