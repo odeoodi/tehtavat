@@ -38,6 +38,8 @@ class Bensa(Auto):
         self.tankki = tankki
         super().__init__(rekkari, huippunopeus, nopeus_nyt=0, kuljettu_matka=0)
 
+
+
 autot = []
 
 autot.append(Electric(52.5,"ABC-15",180))
@@ -49,4 +51,4 @@ for a in autot:
     a.kulje(1)
 
 for a in autot:
-    print(f"Kuljettu matka: {a.kuljettu_matka}")
+    print(f"{a.rekkari}: Kuljettu matka: {a.kuljettu_matka} km.")
