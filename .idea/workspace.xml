@@ -5,27 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f345590-4f04-4065-9aa9-aaba9239e9ff" name="Changes" comment="valmis">
-      <change afterPath="$PROJECT_DIR$/MOOC/cluedo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MOOC/ehtoja.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MOOC/emmet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MOOC/funktioita.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MOOC/funktioita2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MOOC/joku tehtävä.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MOOC/keskiarvo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MOOC/lause.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MOOC/seuraava karkausvuosi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tietokannat/testailua.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tuntikokeilut/while true.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli 1/teht2_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli 3/teht3_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Moduuli 3/teht3_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli 3/teht3_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Moduuli 3/teht3_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli 5/teht5_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Moduuli 5/teht5_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli 8/teht8_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Moduuli 8/teht8_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tuntikokeilut/joukko kokeilua.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tuntikokeilut/joukko kokeilua.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teht2.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +68,10 @@
     "Python.monikko taas.executor": "Run",
     "Python.monopoli nopat.executor": "Run",
     "Python.seuraava karkausvuosi.executor": "Run",
+    "Python.teht10_1.executor": "Run",
+    "Python.teht10_2.executor": "Run",
+    "Python.teht10_3.executor": "Run",
+    "Python.teht10_4.executor": "Run",
     "Python.teht2.executor": "Run",
     "Python.teht2_2.executor": "Run",
     "Python.teht2_3.executor": "Run",
@@ -122,6 +106,10 @@
     "Python.teht8_1.executor": "Run",
     "Python.teht8_2.executor": "Run",
     "Python.teht8_3.executor": "Run",
+    "Python.teht9_1.executor": "Run",
+    "Python.teht9_2.executor": "Run",
+    "Python.teht9_3.executor": "Run",
+    "Python.teht9_4.executor": "Run",
     "Python.testailua.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -161,48 +149,7 @@
       <workItem from="1724161793510" duration="325000" />
       <workItem from="1724234493101" duration="55451000" />
       <workItem from="1725344958436" duration="64476000" />
-    </task>
-    <task id="LOCAL−00001" summary="valmis">
-      <option name="closed" value="true" />
-      <created>1724150458690</created>
-      <option name="number" value="LOCAL−00001" />
-      <option name="presentableId" value="LOCAL−00001" />
-      <updated>1724150458690</updated>
-    </task>
-    <task id="LOCAL−00002" summary="valmis">
-      <option name="closed" value="true" />
-      <created>1724150616037</created>
-      <option name="number" value="LOCAL−00002" />
-      <option name="presentableId" value="LOCAL−00002" />
-      <updated>1724150616037</updated>
-    </task>
-    <task id="LOCAL−00003" summary="valmis">
-      <option name="closed" value="true" />
-      <created>1724151007527</created>
-      <option name="number" value="LOCAL−00003" />
-      <option name="presentableId" value="LOCAL−00003" />
-      <updated>1724151007527</updated>
-    </task>
-    <task id="LOCAL−00004" summary="päivitetty">
-      <option name="closed" value="true" />
-      <created>1724151035356</created>
-      <option name="number" value="LOCAL−00004" />
-      <option name="presentableId" value="LOCAL−00004" />
-      <updated>1724151035356</updated>
-    </task>
-    <task id="LOCAL−00005" summary="valmis">
-      <option name="closed" value="true" />
-      <created>1724153406290</created>
-      <option name="number" value="LOCAL−00005" />
-      <option name="presentableId" value="LOCAL−00005" />
-      <updated>1724153406290</updated>
-    </task>
-    <task id="LOCAL−00006" summary="valmis">
-      <option name="closed" value="true" />
-      <created>1724155368689</created>
-      <option name="number" value="LOCAL−00006" />
-      <option name="presentableId" value="LOCAL−00006" />
-      <updated>1724155368689</updated>
+      <workItem from="1729581715396" duration="18596000" />
     </task>
     <task id="LOCAL−00007" summary="valmis">
       <option name="closed" value="true" />
@@ -477,7 +424,77 @@
       <option name="presentableId" value="LOCAL−00045" />
       <updated>1725963842115</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL−00046" summary="valmis">
+      <option name="closed" value="true" />
+      <created>1729582537188</created>
+      <option name="number" value="LOCAL−00046" />
+      <option name="presentableId" value="LOCAL−00046" />
+      <updated>1729582537188</updated>
+    </task>
+    <task id="LOCAL−00047" summary="valmis">
+      <option name="closed" value="true" />
+      <created>1729583569504</created>
+      <option name="number" value="LOCAL−00047" />
+      <option name="presentableId" value="LOCAL−00047" />
+      <updated>1729583569504</updated>
+    </task>
+    <task id="LOCAL−00048" summary="valmis">
+      <option name="closed" value="true" />
+      <created>1729583812317</created>
+      <option name="number" value="LOCAL−00048" />
+      <option name="presentableId" value="LOCAL−00048" />
+      <updated>1729583812317</updated>
+    </task>
+    <task id="LOCAL−00049" summary="valmis">
+      <option name="closed" value="true" />
+      <created>1729586196250</created>
+      <option name="number" value="LOCAL−00049" />
+      <option name="presentableId" value="LOCAL−00049" />
+      <updated>1729586196250</updated>
+    </task>
+    <task id="LOCAL−00050" summary="valmis">
+      <option name="closed" value="true" />
+      <created>1729591223985</created>
+      <option name="number" value="LOCAL−00050" />
+      <option name="presentableId" value="LOCAL−00050" />
+      <updated>1729591223985</updated>
+    </task>
+    <task id="LOCAL−00051" summary="valmis">
+      <option name="closed" value="true" />
+      <created>1729678623395</created>
+      <option name="number" value="LOCAL−00051" />
+      <option name="presentableId" value="LOCAL−00051" />
+      <updated>1729678623395</updated>
+    </task>
+    <task id="LOCAL−00052" summary="valmis">
+      <option name="closed" value="true" />
+      <created>1729680585431</created>
+      <option name="number" value="LOCAL−00052" />
+      <option name="presentableId" value="LOCAL−00052" />
+      <updated>1729680585431</updated>
+    </task>
+    <task id="LOCAL−00053" summary="valmis">
+      <option name="closed" value="true" />
+      <created>1729680656284</created>
+      <option name="number" value="LOCAL−00053" />
+      <option name="presentableId" value="LOCAL−00053" />
+      <updated>1729680656284</updated>
+    </task>
+    <task id="LOCAL−00054" summary="valmis">
+      <option name="closed" value="true" />
+      <created>1729681179678</created>
+      <option name="number" value="LOCAL−00054" />
+      <option name="presentableId" value="LOCAL−00054" />
+      <updated>1729681179678</updated>
+    </task>
+    <task id="LOCAL−00055" summary="valmis">
+      <option name="closed" value="true" />
+      <created>1729683849825</created>
+      <option name="number" value="LOCAL−00055" />
+      <option name="presentableId" value="LOCAL−00055" />
+      <updated>1729683849825</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -522,23 +539,30 @@
     <SUITE FILE_PATH="coverage/tehtavat$joukko_kokeilua.coverage" NAME="joukko kokeilua Coverage Results" MODIFIED="1726565548322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuntikokeilut" />
     <SUITE FILE_PATH="coverage/tehtavat$lause.coverage" NAME="lause Coverage Results" MODIFIED="1727082022783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MOOC" />
     <SUITE FILE_PATH="coverage/tehtavat$teht5_2.coverage" NAME="teht5_2 Coverage Results" MODIFIED="1725349412284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 5" />
+    <SUITE FILE_PATH="coverage/tehtavat$teht10_2.coverage" NAME="teht10_2 Coverage Results" MODIFIED="1729680503056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 10" />
     <SUITE FILE_PATH="coverage/tehtavat$funktiot_parametrit.coverage" NAME="funktiot_parametrit Coverage Results" MODIFIED="1725361608287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuntikokeilut" />
     <SUITE FILE_PATH="coverage/tehtavat$keskiarvo.coverage" NAME="keskiarvo Coverage Results" MODIFIED="1726761416561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MOOC" />
     <SUITE FILE_PATH="coverage/tehtavat$teht4_5.coverage" NAME="teht4_5 Coverage Results" MODIFIED="1724923421081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 4" />
     <SUITE FILE_PATH="coverage/tehtavat$teht6_1.coverage" NAME="teht6_1 Coverage Results" MODIFIED="1724912035556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 6" />
     <SUITE FILE_PATH="coverage/tehtavat$hello.coverage" NAME="hello Coverage Results" MODIFIED="1724148891572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tehtavat$teht9_3.coverage" NAME="teht9_3 Coverage Results" MODIFIED="1729583766958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 9" />
+    <SUITE FILE_PATH="coverage/tehtavat$teht9_4.coverage" NAME="teht9_4 Coverage Results" MODIFIED="1729595795596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 9" />
     <SUITE FILE_PATH="coverage/tehtavat$teht3_4.coverage" NAME="teht3_4 Coverage Results" MODIFIED="1726566074076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 3" />
+    <SUITE FILE_PATH="coverage/tehtavat$teht10_3.coverage" NAME="teht10_3 Coverage Results" MODIFIED="1729681167989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 10" />
     <SUITE FILE_PATH="coverage/tehtavat$luento2.coverage" NAME="luento2 Coverage Results" MODIFIED="1724249172796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testailut" />
     <SUITE FILE_PATH="coverage/tehtavat$teht5_1.coverage" NAME="teht5_1 Coverage Results" MODIFIED="1724754369960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 5" />
     <SUITE FILE_PATH="coverage/tehtavat$teht8_3.coverage" NAME="teht8_3 Coverage Results" MODIFIED="1725963801349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 8" />
     <SUITE FILE_PATH="coverage/tehtavat$teht7_2.coverage" NAME="teht7_2 Coverage Results" MODIFIED="1725360819145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 7" />
     <SUITE FILE_PATH="coverage/tehtavat$teht2_4.coverage" NAME="teht2_4 Coverage Results" MODIFIED="1724151367094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 1" />
+    <SUITE FILE_PATH="coverage/tehtavat$teht9_2.coverage" NAME="teht9_2 Coverage Results" MODIFIED="1729584194384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 9" />
     <SUITE FILE_PATH="coverage/tehtavat$teht8_1.coverage" NAME="teht8_1 Coverage Results" MODIFIED="1725957491539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 8" />
+    <SUITE FILE_PATH="coverage/tehtavat$teht10_1.coverage" NAME="teht10_1 Coverage Results" MODIFIED="1729678577845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 10" />
     <SUITE FILE_PATH="coverage/tehtavat$teht6_5.coverage" NAME="teht6_5 Coverage Results" MODIFIED="1725371538754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 6" />
     <SUITE FILE_PATH="coverage/tehtavat$teht6_2.coverage" NAME="teht6_2 Coverage Results" MODIFIED="1724912266663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 6" />
     <SUITE FILE_PATH="coverage/tehtavat$teht7_3.coverage" NAME="teht7_3 Coverage Results" MODIFIED="1725868031732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 7" />
     <SUITE FILE_PATH="coverage/tehtavat$teht5_4.coverage" NAME="teht5_4 Coverage Results" MODIFIED="1724756480231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 5" />
     <SUITE FILE_PATH="coverage/tehtavat$teht4_6.coverage" NAME="teht4_6 Coverage Results" MODIFIED="1725524955916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 4" />
+    <SUITE FILE_PATH="coverage/tehtavat$teht10_4.coverage" NAME="teht10_4 Coverage Results" MODIFIED="1729683835157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 10" />
     <SUITE FILE_PATH="coverage/tehtavat$monopoli_nopat.coverage" NAME="monopoli nopat Coverage Results" MODIFIED="1725351197447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuntikokeilut" />
     <SUITE FILE_PATH="coverage/tehtavat$teht2_3.coverage" NAME="teht2_3 Coverage Results" MODIFIED="1724151206128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 1" />
     <SUITE FILE_PATH="coverage/tehtavat$funktioita2.coverage" NAME="funktioita2 Coverage Results" MODIFIED="1726758423946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MOOC" />
@@ -558,6 +582,7 @@
     <SUITE FILE_PATH="coverage/tehtavat$teht4_3.coverage" NAME="teht4_3 Coverage Results" MODIFIED="1724841601297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 4" />
     <SUITE FILE_PATH="coverage/tehtavat$for_loop2.coverage" NAME="for_loop2 Coverage Results" MODIFIED="1724758693618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MOOC" />
     <SUITE FILE_PATH="coverage/tehtavat$for_loop.coverage" NAME="for_loop Coverage Results" MODIFIED="1724758079005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MOOC" />
+    <SUITE FILE_PATH="coverage/tehtavat$teht9_1.coverage" NAME="teht9_1 Coverage Results" MODIFIED="1729582510258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 9" />
     <SUITE FILE_PATH="coverage/tehtavat$teht3_2.coverage" NAME="teht3_2 Coverage Results" MODIFIED="1724741711200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 3" />
   </component>
 </project>
