@@ -46,7 +46,7 @@ autot.append(Electric(52.5,"ABC-15",180))
 autot.append(Bensa(32.3,"ACD-14",165))
 
 for a in autot:
-    a.kiihdyta(random.randint(30,a.huippunopeus))
+    a.kiihdyta(random.randint(30, a.huippunopeus))
 for a in autot:
     a.kulje(1)
 
