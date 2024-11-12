@@ -45,85 +45,90 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.ehtoja.executor": "Run",
-    "Python.emmet.executor": "Run",
-    "Python.for_loop.executor": "Run",
-    "Python.for_loop2.executor": "Run",
-    "Python.funktioita.executor": "Run",
-    "Python.funktioita2.executor": "Run",
-    "Python.funktiot1.executor": "Run",
-    "Python.funktiot_parametrit.executor": "Run",
-    "Python.funtktio_inventaario.executor": "Run",
-    "Python.hello.executor": "Run",
-    "Python.joukko kokeilua.executor": "Run",
-    "Python.keskiarvo.executor": "Run",
-    "Python.lause.executor": "Run",
-    "Python.luento1.executor": "Run",
-    "Python.luento2.executor": "Run",
-    "Python.luento3.executor": "Run",
-    "Python.luettele nimia.executor": "Run",
-    "Python.monikko kokeilua.executor": "Run",
-    "Python.monikko taas.executor": "Run",
-    "Python.monopoli nopat.executor": "Run",
-    "Python.seuraava karkausvuosi.executor": "Run",
-    "Python.teht10_1.executor": "Run",
-    "Python.teht10_2.executor": "Run",
-    "Python.teht10_3.executor": "Run",
-    "Python.teht10_4.executor": "Run",
-    "Python.teht2.executor": "Run",
-    "Python.teht2_2.executor": "Run",
-    "Python.teht2_3.executor": "Run",
-    "Python.teht2_4.executor": "Run",
-    "Python.teht2_5.executor": "Run",
-    "Python.teht2_6.executor": "Run",
-    "Python.teht3_1.executor": "Run",
-    "Python.teht3_2.executor": "Run",
-    "Python.teht3_3.executor": "Run",
-    "Python.teht3_4.executor": "Run",
-    "Python.teht4_1.executor": "Run",
-    "Python.teht4_2.executor": "Run",
-    "Python.teht4_3.executor": "Run",
-    "Python.teht4_4.executor": "Run",
-    "Python.teht4_5.executor": "Run",
-    "Python.teht4_6.executor": "Run",
-    "Python.teht5_1.executor": "Run",
-    "Python.teht5_2.executor": "Run",
-    "Python.teht5_3.executor": "Run",
-    "Python.teht5_4.2.executor": "Run",
-    "Python.teht5_4.executor": "Run",
-    "Python.teht6_1.executor": "Run",
-    "Python.teht6_2.executor": "Run",
-    "Python.teht6_3.executor": "Run",
-    "Python.teht6_4.executor": "Run",
-    "Python.teht6_5.2.executor": "Run",
-    "Python.teht6_5.executor": "Run",
-    "Python.teht6_6.executor": "Run",
-    "Python.teht7_1.executor": "Run",
-    "Python.teht7_2.executor": "Run",
-    "Python.teht7_3.executor": "Run",
-    "Python.teht8_1.executor": "Run",
-    "Python.teht8_2.executor": "Run",
-    "Python.teht8_3.executor": "Run",
-    "Python.teht9_1.executor": "Run",
-    "Python.teht9_2.executor": "Run",
-    "Python.teht9_3.executor": "Run",
-    "Python.teht9_4.executor": "Run",
-    "Python.testailua.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.completion",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.ehtoja.executor&quot;: &quot;Run&quot;,
+    &quot;Python.emmet.executor&quot;: &quot;Run&quot;,
+    &quot;Python.for_loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.for_loop2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funktioita.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funktioita2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funktiot1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funktiot_parametrit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funtktio_inventaario.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hello.executor&quot;: &quot;Run&quot;,
+    &quot;Python.joukko kokeilua.executor&quot;: &quot;Run&quot;,
+    &quot;Python.keskiarvo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lause.executor&quot;: &quot;Run&quot;,
+    &quot;Python.luento1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.luento2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.luento3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.luettele nimia.executor&quot;: &quot;Run&quot;,
+    &quot;Python.monikko kokeilua.executor&quot;: &quot;Run&quot;,
+    &quot;Python.monikko taas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.monopoli nopat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.seuraava karkausvuosi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht10_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht10_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht10_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht10_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht11_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht11_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht12_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht12_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht2_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht2_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht2_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht2_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht2_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht3_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht3_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht3_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht3_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht4_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht4_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht4_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht4_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht4_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht4_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht5_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht5_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht5_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht5_4.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht5_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht6_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht6_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht6_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht6_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht6_5.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht6_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht6_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht7_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht7_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht7_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht8_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht8_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht8_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht9_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht9_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht9_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teht9_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testailua.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Moduuli 12" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Moduuli 2" />
       <recent name="$PROJECT_DIR$/Moduuli 1" />
@@ -132,8 +137,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-PY-242.20224.347" />
-        <option value="bundled-python-sdk-c2d6afa66fbe-39cff9de6eef-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.20224.347" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23726.102" />
+        <option value="bundled-python-sdk-5e1850174b45-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23726.102" />
       </set>
     </attachedChunks>
   </component>
@@ -149,63 +154,10 @@
       <workItem from="1724161793510" duration="325000" />
       <workItem from="1724234493101" duration="55451000" />
       <workItem from="1725344958436" duration="64476000" />
-      <workItem from="1729581715396" duration="18596000" />
-    </task>
-    <task id="LOCAL−00007" summary="valmis">
-      <option name="closed" value="true" />
-      <created>1724236834481</created>
-      <option name="number" value="LOCAL−00007" />
-      <option name="presentableId" value="LOCAL−00007" />
-      <updated>1724236834481</updated>
-    </task>
-    <task id="LOCAL−00008" summary="tehty">
-      <option name="closed" value="true" />
-      <created>1724238222898</created>
-      <option name="number" value="LOCAL−00008" />
-      <option name="presentableId" value="LOCAL−00008" />
-      <updated>1724238222898</updated>
-    </task>
-    <task id="LOCAL−00009" summary="tehty">
-      <option name="closed" value="true" />
-      <created>1724238745280</created>
-      <option name="number" value="LOCAL−00009" />
-      <option name="presentableId" value="LOCAL−00009" />
-      <updated>1724238745280</updated>
-    </task>
-    <task id="LOCAL−00010" summary="tehty">
-      <option name="closed" value="true" />
-      <created>1724240309230</created>
-      <option name="number" value="LOCAL−00010" />
-      <option name="presentableId" value="LOCAL−00010" />
-      <updated>1724240309230</updated>
-    </task>
-    <task id="LOCAL−00011" summary="tehty">
-      <option name="closed" value="true" />
-      <created>1724250243125</created>
-      <option name="number" value="LOCAL−00011" />
-      <option name="presentableId" value="LOCAL−00011" />
-      <updated>1724250243125</updated>
-    </task>
-    <task id="LOCAL−00012" summary="tehty">
-      <option name="closed" value="true" />
-      <created>1724300151465</created>
-      <option name="number" value="LOCAL−00012" />
-      <option name="presentableId" value="LOCAL−00012" />
-      <updated>1724300151465</updated>
-    </task>
-    <task id="LOCAL−00013" summary="tehty">
-      <option name="closed" value="true" />
-      <created>1724304251199</created>
-      <option name="number" value="LOCAL−00013" />
-      <option name="presentableId" value="LOCAL−00013" />
-      <updated>1724304251199</updated>
-    </task>
-    <task id="LOCAL−00014" summary="tehty">
-      <option name="closed" value="true" />
-      <created>1724305052652</created>
-      <option name="number" value="LOCAL−00014" />
-      <option name="presentableId" value="LOCAL−00014" />
-      <updated>1724305052652</updated>
+      <workItem from="1729581715396" duration="22842000" />
+      <workItem from="1730285364251" duration="8904000" />
+      <workItem from="1730796442805" duration="1000" />
+      <workItem from="1730890700839" duration="39000" />
     </task>
     <task id="LOCAL−00015" summary="tehty">
       <option name="closed" value="true" />
@@ -494,7 +446,63 @@
       <option name="presentableId" value="LOCAL−00055" />
       <updated>1729683849825</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL−00056" summary="valmis">
+      <option name="closed" value="true" />
+      <created>1730192557994</created>
+      <option name="number" value="LOCAL−00056" />
+      <option name="presentableId" value="LOCAL−00056" />
+      <updated>1730192557995</updated>
+    </task>
+    <task id="LOCAL−00057" summary="valmis">
+      <option name="closed" value="true" />
+      <created>1730192586859</created>
+      <option name="number" value="LOCAL−00057" />
+      <option name="presentableId" value="LOCAL−00057" />
+      <updated>1730192586859</updated>
+    </task>
+    <task id="LOCAL−00058" summary="valmis">
+      <option name="closed" value="true" />
+      <created>1730193814652</created>
+      <option name="number" value="LOCAL−00058" />
+      <option name="presentableId" value="LOCAL−00058" />
+      <updated>1730193814652</updated>
+    </task>
+    <task id="LOCAL−00059" summary="valmis">
+      <option name="closed" value="true" />
+      <created>1730194131789</created>
+      <option name="number" value="LOCAL−00059" />
+      <option name="presentableId" value="LOCAL−00059" />
+      <updated>1730194131789</updated>
+    </task>
+    <task id="LOCAL−00060" summary="valmis">
+      <option name="closed" value="true" />
+      <created>1730285377389</created>
+      <option name="number" value="LOCAL−00060" />
+      <option name="presentableId" value="LOCAL−00060" />
+      <updated>1730285377389</updated>
+    </task>
+    <task id="LOCAL−00061" summary="valmis">
+      <option name="closed" value="true" />
+      <created>1730285777192</created>
+      <option name="number" value="LOCAL−00061" />
+      <option name="presentableId" value="LOCAL−00061" />
+      <updated>1730285777192</updated>
+    </task>
+    <task id="LOCAL−00062" summary="valmis">
+      <option name="closed" value="true" />
+      <created>1730289967235</created>
+      <option name="number" value="LOCAL−00062" />
+      <option name="presentableId" value="LOCAL−00062" />
+      <updated>1730289967235</updated>
+    </task>
+    <task id="LOCAL−00063" summary="valmis">
+      <option name="closed" value="true" />
+      <created>1730303575638</created>
+      <option name="number" value="LOCAL−00063" />
+      <option name="presentableId" value="LOCAL−00063" />
+      <updated>1730303575638</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -521,12 +529,12 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/tehtavat$monikko_taas.coverage" NAME="monikko taas Coverage Results" MODIFIED="1725871725805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuntikokeilut" />
     <SUITE FILE_PATH="coverage/tehtavat$teht2.coverage" NAME="teht2 Coverage Results" MODIFIED="1724150645851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 1" />
-    <SUITE FILE_PATH="coverage/tehtavat$teht2_5.coverage" NAME="teht2_5 Coverage Results" MODIFIED="1724310661941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 2" />
-    <SUITE FILE_PATH="coverage/tehtavat$teht4_1.coverage" NAME="teht4_1 Coverage Results" MODIFIED="1724757564198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 4" />
     <SUITE FILE_PATH="coverage/tehtavat$teht3_3.coverage" NAME="teht3_3 Coverage Results" MODIFIED="1724851635447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 3" />
+    <SUITE FILE_PATH="coverage/tehtavat$teht4_1.coverage" NAME="teht4_1 Coverage Results" MODIFIED="1724757564198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 4" />
+    <SUITE FILE_PATH="coverage/tehtavat$teht2_5.coverage" NAME="teht2_5 Coverage Results" MODIFIED="1724310661941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 2" />
     <SUITE FILE_PATH="coverage/tehtavat$teht5_4_2.coverage" NAME="teht5_4.2 Coverage Results" MODIFIED="1725347718515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 5" />
-    <SUITE FILE_PATH="coverage/tehtavat$teht2_2.coverage" NAME="teht2_2 Coverage Results" MODIFIED="1724153601367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 2" />
     <SUITE FILE_PATH="coverage/tehtavat$luento3.coverage" NAME="luento3 Coverage Results" MODIFIED="1724747632977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testailut" />
+    <SUITE FILE_PATH="coverage/tehtavat$teht2_2.coverage" NAME="teht2_2 Coverage Results" MODIFIED="1724153601367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 2" />
     <SUITE FILE_PATH="coverage/tehtavat$testailua.coverage" NAME="testailua Coverage Results" MODIFIED="1725961412720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tietokannat" />
     <SUITE FILE_PATH="coverage/tehtavat$seuraava_karkausvuosi.coverage" NAME="seuraava karkausvuosi Coverage Results" MODIFIED="1726817094115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MOOC" />
     <SUITE FILE_PATH="coverage/tehtavat$teht7_1.coverage" NAME="teht7_1 Coverage Results" MODIFIED="1725360097721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 7" />
@@ -558,6 +566,7 @@
     <SUITE FILE_PATH="coverage/tehtavat$teht8_1.coverage" NAME="teht8_1 Coverage Results" MODIFIED="1725957491539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 8" />
     <SUITE FILE_PATH="coverage/tehtavat$teht10_1.coverage" NAME="teht10_1 Coverage Results" MODIFIED="1729678577845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 10" />
     <SUITE FILE_PATH="coverage/tehtavat$teht6_5.coverage" NAME="teht6_5 Coverage Results" MODIFIED="1725371538754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 6" />
+    <SUITE FILE_PATH="coverage/tehtavat$teht11_2.coverage" NAME="teht11_2 Coverage Results" MODIFIED="1730194513761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 11" />
     <SUITE FILE_PATH="coverage/tehtavat$teht6_2.coverage" NAME="teht6_2 Coverage Results" MODIFIED="1724912266663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 6" />
     <SUITE FILE_PATH="coverage/tehtavat$teht7_3.coverage" NAME="teht7_3 Coverage Results" MODIFIED="1725868031732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 7" />
     <SUITE FILE_PATH="coverage/tehtavat$teht5_4.coverage" NAME="teht5_4 Coverage Results" MODIFIED="1724756480231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 5" />
@@ -568,6 +577,7 @@
     <SUITE FILE_PATH="coverage/tehtavat$funktioita2.coverage" NAME="funktioita2 Coverage Results" MODIFIED="1726758423946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MOOC" />
     <SUITE FILE_PATH="coverage/tehtavat$luento1.coverage" NAME="luento1 Coverage Results" MODIFIED="1724156526074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testailut" />
     <SUITE FILE_PATH="coverage/tehtavat$teht5_3.coverage" NAME="teht5_3 Coverage Results" MODIFIED="1725371461123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 5" />
+    <SUITE FILE_PATH="coverage/tehtavat$teht12_1.coverage" NAME="teht12_1 Coverage Results" MODIFIED="1730287529459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 12" />
     <SUITE FILE_PATH="coverage/tehtavat$teht6_4.coverage" NAME="teht6_4 Coverage Results" MODIFIED="1724915456571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 6" />
     <SUITE FILE_PATH="coverage/tehtavat$ehtoja.coverage" NAME="ehtoja Coverage Results" MODIFIED="1726760119692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MOOC" />
     <SUITE FILE_PATH="coverage/tehtavat$monikko_kokeilua.coverage" NAME="monikko kokeilua Coverage Results" MODIFIED="1725359896942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuntikokeilut" />
@@ -581,8 +591,10 @@
     <SUITE FILE_PATH="coverage/tehtavat$funktioita.coverage" NAME="funktioita Coverage Results" MODIFIED="1726766913784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MOOC" />
     <SUITE FILE_PATH="coverage/tehtavat$teht4_3.coverage" NAME="teht4_3 Coverage Results" MODIFIED="1724841601297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 4" />
     <SUITE FILE_PATH="coverage/tehtavat$for_loop2.coverage" NAME="for_loop2 Coverage Results" MODIFIED="1724758693618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MOOC" />
+    <SUITE FILE_PATH="coverage/tehtavat$teht11_1.coverage" NAME="teht11_1 Coverage Results" MODIFIED="1730192449129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 11" />
     <SUITE FILE_PATH="coverage/tehtavat$for_loop.coverage" NAME="for_loop Coverage Results" MODIFIED="1724758079005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MOOC" />
     <SUITE FILE_PATH="coverage/tehtavat$teht9_1.coverage" NAME="teht9_1 Coverage Results" MODIFIED="1729582510258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 9" />
+    <SUITE FILE_PATH="coverage/tehtavat$teht12_2.coverage" NAME="teht12_2 Coverage Results" MODIFIED="1730303555373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 12" />
     <SUITE FILE_PATH="coverage/tehtavat$teht3_2.coverage" NAME="teht3_2 Coverage Results" MODIFIED="1724741711200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 3" />
   </component>
 </project>
